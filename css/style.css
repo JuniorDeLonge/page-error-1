@@ -19,7 +19,7 @@ body {
 
 body::before {
     content: "";
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     height: 100%;
@@ -29,6 +29,7 @@ body::before {
     background-position: center;
     z-index: -1;
 }
+
 
 .error-container {
     text-align: center;
