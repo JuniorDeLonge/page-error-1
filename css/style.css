@@ -24,7 +24,7 @@ body::before {
     left: 0;
     height: 100%;
     width: 60%;
-    background-image: url("../img/_a8d368d0-7a9d-41fb-ba23-6cc374000ebb.jpg");
+    background-image: url("/img/_a8d368d0-7a9d-41fb-ba23-6cc374000ebb.jpg");
     background-size: cover;
     background-position: center;
     z-index: -1;
