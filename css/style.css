@@ -24,7 +24,7 @@ body::before {
     left: 0;
     height: 100%;
     width: 60%;
-    background-image: url("img/fundo.jpg");
+    background-image: url("../img/fundo.jpg");
     background-size: cover;
     background-position: center;
     z-index: -1;
